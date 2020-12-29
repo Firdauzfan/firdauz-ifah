@@ -117,7 +117,7 @@ img.emoji {
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner" role="listbox">
                                     <div class="carousel-item active">
-                                  <img  src="assets/images/slider1.jpg" alt="1" >
+                                  <img  src="assets/images/slider1.JPG" alt="1" >
                                                 <div class="carousel-caption d-md-block">
                   <div class="inner_carousel">
                     <h3 class="font-weight-bold wow animated fadeInLeft delay-1000" style="color: #dd9b4b">Firdauz &amp; Ifah</h3>
@@ -129,7 +129,7 @@ img.emoji {
                 </div>
                               </div>
                                                 <div class="carousel-item">
-                                  <img  src="assets/images/slider2.jpg" alt="1" >
+                                  <img  src="assets/images/slider2.JPG" alt="1" >
                                                 <div class="carousel-caption d-md-block">
                   <div class="inner_carousel">
                     <h3 class="font-weight-bold wow animated fadeInLeft delay-1000" style="color: #dd9b4b">Firdauz &amp; Ifah</h3>
@@ -141,7 +141,7 @@ img.emoji {
                 </div>
                               </div>
                                                 <div class="carousel-item">
-                                  <img  src="assets/images/slider3.jpg" alt="1" >
+                                  <img  src="assets/images/slider3.JPG" alt="1" >
                                                 <div class="carousel-caption d-md-block">
                   <div class="inner_carousel">
                     <h3 class="font-weight-bold wow animated fadeInLeft delay-1000" style="color: #dd9b4b">Firdauz &amp; Ifah</h3>
@@ -204,7 +204,7 @@ img.emoji {
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-4 col-md-4 couple-contents">
-									<img src="assets/images/firdauz2.jpg" class="wow animated fadeInDown delay-1000" style="height:470px">
+									<img src="assets/images/firdauz2.JPG" class="wow animated fadeInDown delay-1000" style="height:470px">
 													<h3 class="couple-name wow animated fadeInUp delay-1000">
 						<a href="#">
 							Firdauz Fanani S.Kom					</a>
@@ -233,7 +233,7 @@ img.emoji {
 									</div>
 			</div>
 			<div class="col-lg-4 col-md-4 couple-contents">
-									<img src="assets/images/ifah2.jpg" class="wow animated fadeInDown delay-1000" style="height:470px">
+									<img src="assets/images/ifah2.JPG" class="wow animated fadeInDown delay-1000" style="height:470px">
 													<h3 class="couple-name wow animated fadeInUp delay-1000">
 						<a href="#">
 							dr. Taqwatin Ma'rifah						</a>
