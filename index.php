@@ -223,9 +223,9 @@ img.emoji {
 													<a href="//www.instagram.com/firdauzfanani" target="_blank"><i class="fab fa-instagram"></i>
 					</a>
 											</div>
-			<div class="col-lg-4 col-md-4 invitation-content" style="background-image:url(&#039;https://themeseye.com/theme-demo/nikah-wedding-pro/wp-content/themes/nikah-wedding-pro/assets/images/happy-couple/happycoupleflowerbg.jpg&#039;);background-repeat: no-repeat;background-size: contain;background-position: bottom;">
+			<div class="col-lg-4 col-md-4 invitation-content" style="background-image:url(&#039;assets/images/happycoupleflowerbg.jpg&#039;);background-repeat: no-repeat;background-size: contain;background-position: bottom;">
 									<h3 class="main-title wow animated fadeInDown delay-1000">Happy Couple</h3>
-								<img src="https://themeseye.com/theme-demo/nikah-wedding-pro/wp-content/themes/nikah-wedding-pro/assets/images/titleline.png">
+								<img src="assets/images/titleline.png">
 									<p class="sub-title">Made For Each Other</p>
 								<div class="invitation-card">
 											<h3 class="invitation-title">Invitation</h3>
@@ -259,7 +259,7 @@ img.emoji {
 		<div class="row">
 			<div class="col-lg-12 col-md-12 wedding-timer-head">
 									<h3 class="wow animated fadeInDown delay-300" style="color:black">Don&#039;t Miss It! Until We Get Married!</h3>
-								<img src="https://themeseye.com/theme-demo/nikah-wedding-pro/wp-content/themes/nikah-wedding-pro/assets/images/titleline2.png">
+								<img src="assets/images/titleline2.png">
 									<p>“And of His signs is that He created for you from your selves mates that you may find tranquility in them; and He placed between you affection and mercy. Indeed in that are signs for a people who give thought.”
 ( QS. Ar- Rum 21 )</p>
 							</div>
@@ -278,7 +278,7 @@ img.emoji {
     <div class="row">
       <div class="col-lg-12 col-md-12 more-events-head">
                   <h3 class="wow animated fadeInDown delay-1000">More Events</h3>
-                <img src="https://themeseye.com/theme-demo/nikah-wedding-pro/wp-content/themes/nikah-wedding-pro/assets/images/titleline2.png">
+                <img src="assets/images/titleline2.png">
                   <p>"The best thing to hold onto in life is each other."</p>
               </div>
     </div>
@@ -356,7 +356,7 @@ img.emoji {
 		<div class="row">
 			<div class="col-lg-12 col-md-12 pre-wedding-shoot-head">
 									<h3 class="wow animated fadeInDown delay-1000">Gallery</h3>
-								<img src="https://themeseye.com/theme-demo/nikah-wedding-pro/wp-content/themes/nikah-wedding-pro/assets/images/titleline.png">
+								<img src="assets/images/titleline.png">
 									<p>"The best and most beautiful things in this world cannot be seen or even heard, but must be felt with the heart."</p>
 							</div>
 		</div>
