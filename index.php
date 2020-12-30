@@ -204,7 +204,7 @@ img.emoji {
   </div>
 </div>				</div> 
 
-<section id="happy-couple">
+<section id="happy-couple" style="background-color: white">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-4 col-md-4 couple-contents">
@@ -216,13 +216,15 @@ img.emoji {
 				
 									<p class="parent-name">S/o Drs. Jaka Sularsa &amp; Dra. Mustika Dewi</p>
                   <br>
+          <div class="socialbox">
 													<a href="//facebook.com/firdauz.fanani" target="_blank"><i class="fab fa-facebook-f"></i>
 					</a>
 													<a href="//twitter.com/firdauzfanani" target="_blank"><i class="fab fa-twitter"></i>
 					</a>
 													<a href="//www.instagram.com/firdauzfanani" target="_blank"><i class="fab fa-instagram"></i>
 					</a>
-											</div>
+          </div>
+			</div>
 			<div class="col-lg-4 col-md-4 invitation-content" style="background-image:url(&#039;assets/images/happycoupleflowerbg.jpg&#039;);background-repeat: no-repeat;background-size: contain;background-position: bottom;">
 									<h3 class="main-title wow animated fadeInDown delay-1000">Happy Couple</h3>
 								<img src="assets/images/titleline.png">
@@ -244,13 +246,15 @@ img.emoji {
 					</h3>
 													<p class="parent-name">S/o Drs. Taslim &amp; Sarmini A.Md</p>
                           <br>
+          <div class="socialbox">
 													<a href="//facebook.com/taqwatin.marifah" target="_blank"><i class="fab fa-facebook-f"></i>
 					</a>
 													<a href="//twitter.com/taqwatifah" target="_blank"><i class="fab fa-twitter"></i>
 					</a>
 													<a href="//www.instagram.com/taqwatifah" target="_blank"><i class="fab fa-instagram"></i>
 					</a>
-											</div>
+          </div>
+		  </div>
 		</div>
 	</div>
 </section>
@@ -326,7 +330,7 @@ img.emoji {
               </div>
       </div>
 </section>
-<section id="lokasi" style="">
+<section id="lokasi" style="background-color: white">
 	<div id="location">
     <div class="container">
         <div class="location-1">
@@ -386,7 +390,7 @@ img.emoji {
 	</div>
 	
 </section>
-<section id="ucapandoaview" style="padding-bottom:7%;">
+<section id="ucapandoaview" style="padding-bottom:7%;background-color: white">
 	<div id="fh5co-testimonial">
     <div class="container">
         <div class="row animate-box">
@@ -489,7 +493,7 @@ img.emoji {
   </div>
 </section>
 
-<section id="thank-you">
+<section id="thank-you" style="background-color: white">
 	<div class="container">
 		<div id="protokol" class="fh5co-section-gray">
     <div class="container">
@@ -534,7 +538,7 @@ img.emoji {
               <a class="twitter" href="//twitter.com/firdauzfanani" target="_blank"><i class="fab fa-twitter align-middle" aria-hidden="true"></i></a>
               <a class="facebook" href="//facebook.com/firdauz.fanani" target="_blank"><i class="fab fa-facebook-f align-middle " aria-hidden="true"></i></a>
               <a class="instagram" href="//www.instagram.com/firdauzfanani" target="_blank"><i class="fab fa-instagram align-middle" aria-hidden="true"></i></a>
-                      </div>
+    </div>
   </div>
 				</div>
 				<a href="javascript:" id="return-to-top"><i class="fas fa-angle-double-up"></i></a>
