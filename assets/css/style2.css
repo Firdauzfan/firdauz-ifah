@@ -253,6 +253,19 @@ iframe{
   text-decoration: none;
 }
 
+.hide{
+  color:white;
+  border-radius:3px;
+  transition:0.5s opacity;
+  background:rgba(1,1,1,1);
+  border:2px solid rgba(1,1,1,0.7);
+}
+
+.hide:hover{
+    cursor:pointer;
+    opacity:0.5;
+}
+
 html body{
   margin:0; 
   padding:0; 

@@ -125,6 +125,7 @@ img.emoji {
                                             <h4 class="sub-head wow animated fadeInRight delay-1000">
                           WE ARE GETTING MARRIED                        </h4>
                                          <div class="prop_desc wow animated fadeInUp delay-1000"><p style="color: #dd9b4b">YOU ARE INVITED - SAVE THE DATE - 14.02.2020</p></div>  
+                                         <div class="hide"><a href="#happy-couple" class="hide">Invitation</a></div> &nbsp;
                   </div>
                  
                 </div>
@@ -137,6 +138,7 @@ img.emoji {
                                             <h4 class="sub-head wow animated fadeInRight delay-1000">
                           WE ARE GETTING MARRIED                        </h4>
                                          <div class="prop_desc wow animated fadeInUp delay-1000"><p style="color: #dd9b4b">YOU ARE INVITED - SAVE THE DATE - 14.02.2020</p></div>  
+                                         <div class="hide"><a href="#happy-couple" class="hide">Invitation</a></div> &nbsp;
                   </div>
                  
                 </div>
@@ -149,6 +151,7 @@ img.emoji {
                                             <h4 class="sub-head wow animated fadeInRight delay-1000">
                           WE ARE GETTING MARRIED                        </h4>
                                          <div class="prop_desc wow animated fadeInUp delay-1000"><p style="color: #dd9b4b">YOU ARE INVITED - SAVE THE DATE - 14.02.2020</p></div>  
+                                         <div class="hide"><a href="#happy-couple" class="hide">Invitation</a></div> &nbsp;
                   </div>
                  
                 </div>
@@ -568,10 +571,9 @@ img.emoji {
 				<div class="col-lg-4">
 					  <div class="top_social">
     <div class="socialbox">
-              <a class="twitter" href="http://www.twitter.com" target="_blank"><i class="fab fa-twitter align-middle" aria-hidden="true"></i></a>
-                          <a class="facebook" href="http://www.facebook.com" target="_blank"><i class="fab fa-facebook-f align-middle " aria-hidden="true"></i></a>
-                          <a class="pintrest" href="http://www.pinterest.com" target="_blank"><i class="fab fa-pinterest-p align-middle " aria-hidden="true"></i></a>
-                                <a class="gplus" href="http://www.googleplus.com" target="_blank"><i class="fab fa-google-plus-g align-middle" aria-hidden="true"></i></a>
+              <a class="twitter" href="//twitter.com/firdauzfanani" target="_blank"><i class="fab fa-twitter align-middle" aria-hidden="true"></i></a>
+              <a class="facebook" href="//facebook.com/firdauz.fanani" target="_blank"><i class="fab fa-facebook-f align-middle " aria-hidden="true"></i></a>
+              <a class="instagram" href="//www.instagram.com/firdauzfanani" target="_blank"><i class="fab fa-instagram align-middle" aria-hidden="true"></i></a>
                       </div>
   </div>
 				</div>
