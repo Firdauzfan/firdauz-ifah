@@ -399,7 +399,7 @@ img.emoji {
           <ul class="vw_gallery_front row clearfix">
           <?php
           include_once("db_connection.php");
-          $sql = "SELECT *,DATE_FORMAT(DateCreated,'%W, %d %M %Y %H:%i') as Hari FROM doaucapan order by DateCreated asc";
+          $sql = "SELECT *,DATE_FORMAT(DateCreated+INTERVAL 7 HOUR,'%W, %d %M %Y %H:%i') as Hari FROM doaucapan order by DateCreated asc";
           $query = mysqli_query($conn, $sql);
 
           while($ucapan = mysqli_fetch_array($query)){
@@ -416,46 +416,6 @@ img.emoji {
 
           }
           ?>
-          <!-- <li class="col-md-6 col-sm-6 col-6 p-0">
-          <div class="wrap-testimony">
-                <div class="testimony-slide active">
-                <span>Fadhilah Rizki F di <a href="#" class="twitter">Kartasura</a></span>
-                <blockquote>
-                    <p>"Selamat Menempuh Hidup Baru " <small>Senin, 28 Desember 2020 13:32 WIB </small></p>
-                </blockquote>
-                </div>  
-          </div>
-          </li>
-          <li class="col-md-6 col-sm-6 col-6 p-0">
-          <div class="wrap-testimony">
-                <div class="testimony-slide active">
-                <span>Fadhilah Rizki F di <a href="#" class="twitter">Kartasura</a></span>
-                <blockquote>
-                    <p>"Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, Python, Bootstrap, Java " <small>Senin, 28 Desember 2020 13:32 WIB </small></p>
-                </blockquote>
-                </div>  
-          </div>
-          </li>
-          <li class="col-md-6 col-sm-6 col-6 p-0">
-          <div class="wrap-testimony">
-                <div class="testimony-slide active">
-                <span>Fadhilah Rizki F di <a href="#" class="twitter">Kartasura</a></span>
-                <blockquote>
-                    <p>"Features == ✓ Eyedropper - get the color of any pixel on the page ✓ Advanced Color Picker (similar to Photoshop's) ✓ Ultimate CSS Gradient Generator ..." <small>Senin, 28 Desember 2020 13:32 WIB </small></p>
-                </blockquote>
-                </div>  
-          </div>
-          </li>
-          <li class="col-md-6 col-sm-6 col-6 p-0">
-          <div class="wrap-testimony">
-                <div class="testimony-slide active">
-                <span>Fadhilah Rizki F di <a href="#" class="twitter">Kartasura</a></span>
-                <blockquote>
-                    <p>"Selamat Menempuh Hidup Baru " <small>Senin, 28 Desember 2020 13:32 WIB </small></p>
-                </blockquote>
-                </div>  
-          </div>
-          </li> -->
           </ul>
               
             
