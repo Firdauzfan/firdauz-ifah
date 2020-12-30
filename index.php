@@ -204,7 +204,7 @@ img.emoji {
   </div>
 </div>				</div> 
 
-<section id="happy-couple" style="background-image:url(&#039;https://themeseye.com/theme-demo/nikah-wedding-pro/wp-content/themes/nikah-wedding-pro/assets/images/happy-couple/happycoupleflowerbg.jpg&#039;)">
+<section id="happy-couple">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-4 col-md-4 couple-contents">
@@ -223,7 +223,7 @@ img.emoji {
 													<a href="//www.instagram.com/firdauzfanani" target="_blank"><i class="fab fa-instagram"></i>
 					</a>
 											</div>
-			<div class="col-lg-4 col-md-4 invitation-content">
+			<div class="col-lg-4 col-md-4 invitation-content" style="background-image:url(&#039;https://themeseye.com/theme-demo/nikah-wedding-pro/wp-content/themes/nikah-wedding-pro/assets/images/happy-couple/happycoupleflowerbg.jpg&#039;);background-repeat: no-repeat;background-size: contain;background-position: bottom;">
 									<h3 class="main-title wow animated fadeInDown delay-1000">Happy Couple</h3>
 								<img src="https://themeseye.com/theme-demo/nikah-wedding-pro/wp-content/themes/nikah-wedding-pro/assets/images/titleline.png">
 									<p class="sub-title">Made For Each Other</p>
