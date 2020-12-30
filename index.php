@@ -406,13 +406,13 @@ secara virtual melalui tautan berikut :</p>
       <a href="assets/images/img3.jpg" rel="prettyPhoto[gallery_name]" title="Profesi Firdauz"><img width="300" height="300" src="assets/images/img3.jpg" class="attachment-gallery-image-medium size-gallery-image-medium" alt="" srcset="assets/images/img3.jpg" sizes="(max-width: 300px) 100vw, 300px" /><div class="icon_overlay"><i class="fas fa-plus"></i></div></a>
       </li>
       <li class="col-md-4 col-sm-6 col-6 p-0">
-      <a href="assets/images/backgroundimg.jpg" rel="prettyPhoto[gallery_name]" title=""><img width="300" height="300" src="" class="attachment-gallery-image-medium size-gallery-image-medium" alt="" srcset="" sizes="(max-width: 300px) 100vw, 300px" /><div class="icon_overlay"><i class="fas fa-plus"></i></div></a>
+      <a href="assets/images/img5.jpg" rel="prettyPhoto[gallery_name]" title=""><img width="300" height="300" src="assets/images/img5.jpg" class="attachment-gallery-image-medium size-gallery-image-medium" alt="assets/images/img5.jpg" srcset="" sizes="(max-width: 300px) 100vw, 300px" /><div class="icon_overlay"><i class="fas fa-plus"></i></div></a>
       </li>
       <li class="col-md-4 col-sm-6 col-6 p-0">
-      <a href="assets/images/img4.jpg" rel="prettyPhoto[gallery_name]" title="Feel Free"><img width="300" height="300" src="assets/images/img4.jpg" class="attachment-gallery-image-medium size-gallery-image-medium" alt="" srcset="assets/images/img4.jpg" sizes="(max-width: 300px) 100vw, 300px" /><div class="icon_overlay"><i class="fas fa-plus"></i></div></a>
+      <a href="assets/images/img6.jpg" rel="prettyPhoto[gallery_name]" title="Feel Free"><img width="300" height="300" src="assets/images/img6.jpg" class="attachment-gallery-image-medium size-gallery-image-medium" alt="" srcset="assets/images/img6.jpg" sizes="(max-width: 300px) 100vw, 300px" /><div class="icon_overlay"><i class="fas fa-plus"></i></div></a>
       </li>
       <li class="col-md-4 col-sm-6 col-6 p-0">
-      <a href="assets/images/backgroundimg.jpg" rel="prettyPhoto[gallery_name]" title=""><img width="300" height="300" src="" class="attachment-gallery-image-medium size-gallery-image-medium" alt="" srcset="" sizes="(max-width: 300px) 100vw, 300px" /><div class="icon_overlay"><i class="fas fa-plus"></i></div></a>
+      <a href="assets/images/img4.jpg" rel="prettyPhoto[gallery_name]" title=""><img width="300" height="300" src="assets/images/img4.jpg" class="attachment-gallery-image-medium size-gallery-image-medium" alt="assets/images/img4.jpg" srcset="" sizes="(max-width: 300px) 100vw, 300px" /><div class="icon_overlay"><i class="fas fa-plus"></i></div></a>
       </li>
     </ul>		        			</div>
 		</div>
