@@ -230,8 +230,8 @@ img.emoji {
 								<img src="assets/images/titleline.png">
 									<p class="sub-title">Made For Each Other</p>
 								<div class="invitation-card">
-											<h3 class="invitation-title">Invitation</h3>
-																<p class="invitation-text">We Are inviting You On</p>
+											<h3 class="invitation-title">Save the Date</h3>
+																<p class="invitation-text">On</p>
 					
 											<h5>SUNDAY</h5>
 																<h4>14 Feb 2021</h4>
@@ -330,6 +330,35 @@ img.emoji {
               </div>
       </div>
 </section>
+<section id="virtual-wedding" style="background-image:url(&#039;assets/images/backgroundyellow.jpg&#039;)">
+  <div class="container">
+    <div id="protokol" class="fh5co-section-gray">
+    <div class="container">
+      <div class="row">
+         <br clear="all"> <br clear="all"><div class="col-md-12 col-md-offset-2 text-center fh5co-heading animate-box">
+          <br><h2>Our Virtual Wedding</h2>
+          <p>Tanpa mengurangi rasa hormat, dikarenakan situasi pandemik saat ini, tidak memungkinkan bagi kami mengundang Bapak/Ibu/Saudara/i
+untuk menghadiri pernikahan kami
+dan memberikan doa restu secara langsung.</p>
+
+<p>Kami mengharapkan jarak tidak menjadi penghalang
+Bapak/Ibu/Saudara/i untuk tetap dapat menjadi saksi pernikahan kami
+secara virtual melalui tautan berikut :</p>
+
+<div class="hide"><a href="https://www.instagram.com/taqwatifah/" target="_b" class="hide">Instagram</a></div> &nbsp;
+<div class="hide"><a href="https://www.instagram.com/firdauzfanani/" target="_b" class="hide">Instagram</a></div> &nbsp;
+
+<p>Sunday, 14 February 2021</p>
+<p>08:30</p>
+
+<p>Teriring permohonan maaf dan ucapan terima kasih yang tulus, semoga Bapak/Ibu/Saudara/i dapat memaklumi kondisi ini, semoga kita semua selalu ada dalam keadaan sehat dan dapat melalui situasi ini dengan sebaik-baiknya.</p>
+        </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</section>  
 <section id="lokasi" style="background-color: white">
 	<div id="location">
     <div class="container">
@@ -492,22 +521,6 @@ img.emoji {
     </div>
   </div>
 </section>
-
-<section id="thank-you" style="background-color: white">
-	<div class="container">
-		<div id="protokol" class="fh5co-section-gray">
-    <div class="container">
-      <div class="row">
-         <br clear="all"> <br clear="all"><div class="col-md-12 col-md-offset-2 text-center fh5co-heading animate-box">
-          <br><h2>Health Protocol</h2>
-          <p>Please for who will come to our wedding ceremony and reception to pay attention to health protocols, always using masks, keeping distance, washing hands and keeping health and also body immunity. Thank You</p>
-        </div>
-        </div>
-      </div>
-    </div>
-  </div>
-	</div>
-</section>	
 		<style type='text/css'>
 			#gallery-1 {
 				margin: auto;
