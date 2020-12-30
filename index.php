@@ -399,7 +399,7 @@ img.emoji {
           <ul class="vw_gallery_front row clearfix">
           <?php
           include_once("db_connection.php");
-          $sql = "SELECT *,DATE_FORMAT(DateCreated+INTERVAL 7 HOUR,'%W, %d %M %Y %H:%i') as Hari FROM doaucapan order by DateCreated asc";
+          $sql = "SELECT *,DATE_FORMAT(DateCreated,'%W, %d %M %Y %H:%i') as Hari FROM doaucapan order by DateCreated asc";
           $query = mysqli_query($conn, $sql);
 
           while($ucapan = mysqli_fetch_array($query)){
