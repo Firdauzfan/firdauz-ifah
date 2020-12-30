@@ -124,7 +124,7 @@ img.emoji {
                     <h3 class="font-weight-bold wow animated fadeInLeft delay-1000" style="color: #dd9b4b">Firdauz &amp; Ifah</h3>
                                             <h4 class="sub-head wow animated fadeInRight delay-1000">
                           WE ARE GETTING MARRIED                        </h4>
-                                         <div class="prop_desc wow animated fadeInUp delay-1000"><p style="color: #dd9b4b">YOU ARE INVITED - SAVE THE DATE - 14.02.2020</p></div>  
+                                         <div class="prop_desc wow animated fadeInUp delay-1000"><p style="color: #dd9b4b">YOU ARE INVITED - SAVE THE DATE - 14.02.2021</p></div>  
                                          <div class="hide"><a href="#happy-couple" class="hide">Invitation</a></div> &nbsp;
                   </div>
                  
@@ -137,7 +137,7 @@ img.emoji {
                     <h3 class="font-weight-bold wow animated fadeInLeft delay-1000" style="color: #dd9b4b">Firdauz &amp; Ifah</h3>
                                             <h4 class="sub-head wow animated fadeInRight delay-1000">
                           WE ARE GETTING MARRIED                        </h4>
-                                         <div class="prop_desc wow animated fadeInUp delay-1000"><p style="color: #dd9b4b">YOU ARE INVITED - SAVE THE DATE - 14.02.2020</p></div>  
+                                         <div class="prop_desc wow animated fadeInUp delay-1000"><p style="color: #dd9b4b">YOU ARE INVITED - SAVE THE DATE - 14.02.2021</p></div>  
                                          <div class="hide"><a href="#happy-couple" class="hide">Invitation</a></div> &nbsp;
                   </div>
                  
@@ -150,7 +150,7 @@ img.emoji {
                     <h3 class="font-weight-bold wow animated fadeInLeft delay-1000" style="color: #dd9b4b">Firdauz &amp; Ifah</h3>
                                             <h4 class="sub-head wow animated fadeInRight delay-1000">
                           WE ARE GETTING MARRIED                        </h4>
-                                         <div class="prop_desc wow animated fadeInUp delay-1000"><p style="color: #dd9b4b">YOU ARE INVITED - SAVE THE DATE - 14.02.2020</p></div>  
+                                         <div class="prop_desc wow animated fadeInUp delay-1000"><p style="color: #dd9b4b">YOU ARE INVITED - SAVE THE DATE - 14.02.2021</p></div>  
                                          <div class="hide"><a href="#happy-couple" class="hide">Invitation</a></div> &nbsp;
                   </div>
                  
@@ -214,7 +214,7 @@ img.emoji {
 							Firdauz Fanani S.Kom					</a>
 					</h3>
 				
-									<p class="parent-name">S/o Drs. Jaka Sularsa &amp; Dra. Mustika Dewi</p>
+									<p class="parent-name">Putra dari Drs. Jaka Sularsa &amp; Dra. Mustika Dewi</p>
                   <br>
           <div class="socialbox">
 													<a href="//facebook.com/firdauz.fanani" target="_blank"><i class="fab fa-facebook-f"></i>
@@ -234,7 +234,7 @@ img.emoji {
 																<p class="invitation-text">We Are inviting You On</p>
 					
 											<h5>SUNDAY</h5>
-																<h4>14 Feb 2020</h4>
+																<h4>14 Feb 2021</h4>
 																<p class="wedding-location">At Ayam Ayam Resto Jl. Adi Sumarmo No.329, Plalangan, Klodran, Kec. Colomadu, Kabupaten Karanganyar, Jawa Tengah</p>
 									</div>
 			</div>
@@ -244,7 +244,7 @@ img.emoji {
 						<a href="#">
 							dr. Taqwatin Ma'rifah						</a>
 					</h3>
-													<p class="parent-name">S/o Drs. Taslim &amp; Sarmini A.Md</p>
+													<p class="parent-name">Putri dari Drs. Taslim &amp; Sarmini A.Mk</p>
                           <br>
           <div class="socialbox">
 													<a href="//facebook.com/taqwatin.marifah" target="_blank"><i class="fab fa-facebook-f"></i>
@@ -291,12 +291,12 @@ img.emoji {
                 <img src="assets/images/ring.png" class="events-icons">
                 <h3>
                         <a href="#more-events">
-                          The Ceremony                       </a>
+                          Akad                       </a>
                     </h3>
                     
                          <p class="events-date">
                           <i class="fas fa-calendar-alt"></i>
-                            February 14 2020                        </p>
+                            14 February 2021                        </p>
                                                                     
                         <p class="events-time">
                           <i class="far fa-clock"></i>
@@ -311,16 +311,16 @@ img.emoji {
                 <img src="assets/images/glass.png" class="events-icons">
                 <h3>
                         <a href="#more-events">
-                          The Reception                       </a>
+                          Resepsi                      </a>
                     </h3>
                     
                          <p class="events-date">
                           <i class="fas fa-calendar-alt"></i>
-                            February 14 2020                        </p>
+                            14 February 2021                        </p>
                                                                     
                         <p class="events-time">
                           <i class="far fa-clock"></i>
-                            10.00 AM                       </p>
+                            09.30 AM                       </p>
                                                                     
                         <p class="events-location">
                           <i class="fas fa-map-marker-alt"></i>
@@ -434,8 +434,8 @@ img.emoji {
     <div class="container">
       <div class="row animate-box">
         <div class="col-md-12 col-md-offset-2 text-center fh5co-heading">
-          <h2>Give Dua and Wish</h2>
-          <p>Give Some Dua and Wish for Us.</p>
+          <h2>Send Dua and Wish</h2>
+          <p>Send Some Dua and Wish for Us.</p>
         </div>
       </div>
       <div class="row animate-box">
