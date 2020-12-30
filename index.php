@@ -3,12 +3,12 @@
             if($_GET['status'] == 'sukses'){
                 echo '<script language="javascript">';
                 echo 'alert("Success Add Dua & Wish");';
-                echo 'window.location.href = "#ucapandoaview";';
+                echo 'window.location.href = "index.php#ucapandoaview";';
                 echo '</script>';
             } else {
                 echo '<script language="javascript">';
                 echo 'alert("Failed Add Dua & Wish, User Has Sent Dua&Wish");';
-                echo 'window.location.href = "#ucapandoaview";';
+                echo 'window.location.href = "index.php#ucapandoaadd";';
                 echo '</script>';
             }
         ?>
