@@ -464,7 +464,7 @@ secara virtual melalui tautan berikut :</p>
       <div class="row animate-box">
         <div class="col-md-12 col-md-offset-2 text-center fh5co-heading">
           <h2>Send Dua and Wish</h2>
-          <p>Send Some Dua and Wish for Us.</p>
+          <p>Send Dua and Wish for Us.</p>
         </div>
       </div>
       <div class="row animate-box">
