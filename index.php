@@ -25,6 +25,7 @@
 <meta name='robots' content='noindex,follow' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
+<link rel="icon" type="image/png" href="assets/images/ring.png"/>
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/themeseye.com\/theme-demo\/nikah-wedding-pro\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.11"}};
 			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -117,7 +118,7 @@ img.emoji {
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner" role="listbox">
                                     <div class="carousel-item active">
-                                  <img  src="assets/images/slider1.JPG" alt="1" >
+                                  <img  src="assets/images/Slider1.JPG" alt="1" >
                                                 <div class="carousel-caption d-md-block">
                   <div class="inner_carousel">
                     <h3 class="font-weight-bold wow animated fadeInLeft delay-1000" style="color: #dd9b4b">Firdauz &amp; Ifah</h3>
@@ -129,7 +130,7 @@ img.emoji {
                 </div>
                               </div>
                                                 <div class="carousel-item">
-                                  <img  src="assets/images/slider2.JPG" alt="1" >
+                                  <img  src="assets/images/Slider2.JPG" alt="1" >
                                                 <div class="carousel-caption d-md-block">
                   <div class="inner_carousel">
                     <h3 class="font-weight-bold wow animated fadeInLeft delay-1000" style="color: #dd9b4b">Firdauz &amp; Ifah</h3>
@@ -141,7 +142,7 @@ img.emoji {
                 </div>
                               </div>
                                                 <div class="carousel-item">
-                                  <img  src="assets/images/slider3.JPG" alt="1" >
+                                  <img  src="assets/images/Slider3.JPG" alt="1" >
                                                 <div class="carousel-caption d-md-block">
                   <div class="inner_carousel">
                     <h3 class="font-weight-bold wow animated fadeInLeft delay-1000" style="color: #dd9b4b">Firdauz &amp; Ifah</h3>
