@@ -14,7 +14,7 @@ include_once("db_connection.php");
 $cek=mysqli_query($conn, "SELECT * from doaucapan where Nama_Pengirim='$name'");
 
 // Insert user data into table
-$result = mysqli_query($conn, "INSERT INTO doaucapan(Nama_Pengirim,Email,Alamat,Hubungan,Phone,UcapanDoa,DateCreated) VALUES('$name','$email','$alamat','$hubungan','$handphone','$doa',NOW())");
+$result = mysqli_query($conn, "INSERT INTO doaucapan(Nama_Pengirim,Email,Alamat,Hubungan,Phone,UcapanDoa,DateCreated) VALUES('$name','$email','$alamat','$hubungan','$handphone','$doa',NOW()+ INTERVAL 7 HOUR)");
 
 // Show message when user added
     if( $result ) {
