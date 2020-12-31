@@ -66,6 +66,16 @@ img.emoji {
 <script type='text/javascript' src='assets/js/jquery.prettycustom.js'></script>
 <script type='text/javascript' src='assets/js/jquery.prettyPhoto.js'></script>
 <script type='text/javascript' src='assets/js/wow.min.js'></script>
+<script type="text/javascript">
+  jQuery(document).ready(function($){
+
+$(".hide").click(function () {
+        $("#popup").fadeOut(1000);
+        $("body").css("overflow","scroll");
+        $("body").css("overflow-x","hidden");
+    });
+});
+</script>
 
 		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 			<style type="text/css">
@@ -78,6 +88,44 @@ img.emoji {
 }		</style>
 	</head>
 <body class="home page-template page-template-page-template page-template-home-page page-template-page-templatehome-page-php page page-id-5 wp-custom-logo">
+<?php if(isset($_GET['status'])): ?>
+        <?php
+            if($_GET['status'] == 'sukses' || $_GET['status'] == 'gagal'){
+
+            } else {
+                echo '<script language="javascript">';
+                echo 'alert("Failed Add Dua & Wish, User Has Sent Dua&Wish");';
+                echo 'window.location.href = "index.php#ucapandoaadd";';
+                echo 'jQuery(document).ready(function($){         
+                $("#popup").fadeOut(1000);
+                $("body").css("overflow","scroll");
+                $("body").css("overflow-x","hidden");
+                });';
+                echo '</script>';
+            }
+        ?>
+<?php endif; ?>
+  <div id="popup">
+            <div class="popup-1">
+                <center>
+                    <div class="popup-2">
+                        <span class="popup-2-1">
+                            Official Wedding Website
+                        </span><br><br>
+                        <span class="popup-2-2">
+                            Firdauz & Ifah
+                        </span><br>
+                        <br>
+                            <b>Dear All,</b>
+                            <br>
+                                                <div class="popup-ads">
+                            Sehubungan dengan kondisi COVID-19, tanpa mengurangi rasa hormat, kami mohon maaf tidak dapat mengundang Bapak/Ibu/Saudara/i dalam acara pernikahan kami, merupakan suatau kebahagiaan bagi kami apabila berkenan memberikan doa restunya untuk pernikahan kami. Terimakasih. <br><br> #StoryFirdauzIfah
+                        </div>
+                    </div>
+                    <div class="hide"> Open Invitation</div> &nbsp;
+                </center>
+            </div>
+        </div>
   <header id="masthead" class="site-header inner-page-header">
       
   <div id="header">
@@ -125,7 +173,7 @@ img.emoji {
                                             <h4 class="sub-head wow animated fadeInRight delay-1000">
                           WE ARE GETTING MARRIED                        </h4>
                                          <div class="prop_desc wow animated fadeInUp delay-1000"><p style="color: #dd9b4b">YOU ARE INVITED - SAVE THE DATE - 14.02.2021</p></div>  
-                                         <div class="hide"><a href="#happy-couple" class="hide">Invitation</a></div> &nbsp;
+                                        
                   </div>
                  
                 </div>
@@ -138,7 +186,7 @@ img.emoji {
                                             <h4 class="sub-head wow animated fadeInRight delay-1000">
                           WE ARE GETTING MARRIED                        </h4>
                                          <div class="prop_desc wow animated fadeInUp delay-1000"><p style="color: #dd9b4b">YOU ARE INVITED - SAVE THE DATE - 14.02.2021</p></div>  
-                                         <div class="hide"><a href="#happy-couple" class="hide">Invitation</a></div> &nbsp;
+                                         
                   </div>
                  
                 </div>
@@ -151,7 +199,7 @@ img.emoji {
                                             <h4 class="sub-head wow animated fadeInRight delay-1000">
                           WE ARE GETTING MARRIED                        </h4>
                                          <div class="prop_desc wow animated fadeInUp delay-1000"><p style="color: #dd9b4b">YOU ARE INVITED - SAVE THE DATE - 14.02.2021</p></div>  
-                                         <div class="hide"><a href="#happy-couple" class="hide">Invitation</a></div> &nbsp;
+                                         
                   </div>
                  
                 </div>
@@ -244,7 +292,7 @@ img.emoji {
 						<a href="#">
 							dr. Taqwatin Ma'rifah						</a>
 					</h3>
-													<p class="parent-name">Putri dari Drs. Taslim &amp; Sarmini A.Mk</p>
+													<p class="parent-name">Putri dari Drs. Taslim &amp; Sarmini AMK</p>
                           <br>
           <div class="socialbox">
 													<a href="//facebook.com/taqwatin.marifah" target="_blank"><i class="fab fa-facebook-f"></i>
@@ -345,8 +393,8 @@ dan memberikan doa restu secara langsung.</p>
 Bapak/Ibu/Saudara/i untuk tetap dapat menjadi saksi pernikahan kami
 secara virtual melalui tautan berikut :</p>
 
-<div class="hide"><a href="https://www.instagram.com/taqwatifah/" target="_b" class="hide">Instagram</a></div> &nbsp;
-<div class="hide"><a href="https://www.instagram.com/firdauzfanani/" target="_b" class="hide">Instagram</a></div> &nbsp;
+<div class="hide" style="width: 100%"><a href="https://www.instagram.com/taqwatifah/" target="_b" class="hide">Instagram</a></div> &nbsp;
+<div class="hide" style="width: 100%"><a href="https://www.instagram.com/firdauzfanani/" target="_b" class="hide">Instagram</a></div> &nbsp;
 
 <p>Sunday, 14 February 2021</p>
 <p>08:30</p>
@@ -559,7 +607,6 @@ secara virtual melalui tautan berikut :</p>
 		</div>
 	</div>
 	</div>
-
 <script type='text/javascript' src='assets/js/scripts.js'></script>
 <script type='text/javascript' src='assets/js/tether.js'></script>
 <script type='text/javascript' src='assets/js/bootstrap.min.js'></script>

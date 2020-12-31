@@ -81,6 +81,94 @@ iframe{
     border:8px solid rgba(103, 100, 91, 1);
 }
 
+/* Popup */
+.pop-1{
+    position: fixed;
+    z-index:-1;
+    width:100%;
+}
+.pop-2{
+    display:none;
+}
+.pop-1 img{
+    margin-top:-25%;
+    width:100%;
+}
+#popup{
+    font-family:"Light";
+    width:100%;
+    height: 100%;
+    position: fixed;
+    z-index: 9999;
+    letter-spacing:0.3px;
+    background-image: url(../images/Slider1.JPG);
+    background-size: cover;
+    overflow: scroll;
+    position: fixed;
+    overflow-x:hidden;
+}
+
+#popup a{
+    text-decoration: none;
+    color:rgba(1,1,1,0.9);
+}
+
+.popup-1{
+    padding:6% 0;
+    color: black;
+    background:rgba(255,255,255,0.8);
+    width:100%;
+    height: 100%;
+    position: fixed;
+    z-index: 9999;
+}
+
+.popup-2{
+    color:black;
+    margin-bottom:2%;
+}
+
+.popup-2-1{
+    letter-spacing: 2px;
+}
+
+.popup-2-2{
+    font-size: 70px;
+    color:black;
+    letter-spacing: 5px;
+    font-family: 'Yellow';
+}
+
+.popup-ads{
+    width:75%;
+    margin:3% auto;
+}
+
+.popup-3{
+    font-size: 13px;
+    color:black;
+    letter-spacing:1px;
+}
+
+.popup-3-1{
+    letter-spacing:1px;
+}
+
+.hide{
+    padding:0.5% 0%;
+    width: 18%;
+    color:white;
+    border-radius:3px;
+    transition:0.5s opacity;
+    background:rgba(1,1,1,1);
+    border:2px solid rgba(1,1,1,0.7);
+}
+
+.hide:hover{
+    cursor:pointer;
+    opacity:0.5;
+}
+
 #fh5co-started {
   position: relative;
 }
@@ -127,7 +215,6 @@ iframe{
 }
 #fh5co-started .btn {
   height: 54px;
-  background: #F14E95;
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -278,6 +365,7 @@ html body{
   font-family: 'Lato';
   overflow-x:hidden;
   width: 100%;
+  overflow: hidden;
 }
 label {
   margin-bottom: 0 !important;
@@ -5083,6 +5171,12 @@ input#password, input#reg_password {
   {
     text-align: center;
   }
+  #happy-couple .invitation-content .invitation-card
+{
+  border:6px solid #ebebeb;
+  padding: 85px;
+  border-radius: 30px;
+}
 
 }
 @media screen and (min-width: 576px) and (max-width:767px){
@@ -5116,6 +5210,12 @@ input#password, input#reg_password {
     z-index:2;
     font-weight:normal;
   }
+  #happy-couple .invitation-content .invitation-card
+{
+  border:6px solid #ebebeb;
+  padding: 85px;
+  border-radius: 30px;
+}
 
 } 
 @media screen and (min-width: 768px) and (max-width:991px){
@@ -5153,6 +5253,12 @@ input#password, input#reg_password {
   {
     font-size: 11px;
   }
+  #happy-couple .invitation-content .invitation-card
+{
+  border:6px solid #ebebeb;
+  padding: 85px;
+  border-radius: 30px;
+}
   .socialbox
   {
     text-align: left;
@@ -5442,6 +5548,12 @@ input#password, input#reg_password {
   .main-navigation ul ul li, .menubar.scrolled .main-navigation ul ul li{
     border-bottom: none;
   }
+  #happy-couple .invitation-content .invitation-card
+{
+  border:6px solid #ebebeb;
+  padding: 85px;
+  border-radius: 30px;
+}
   .toggle-nav {
     display: none;
     position: relative;
@@ -5750,6 +5862,13 @@ input#password, input#reg_password {
   {
     padding: 4px;
   }
+
+  #happy-couple .invitation-content .invitation-card
+{
+  border:6px solid #ebebeb;
+  padding: 85px;
+  border-radius: 30px;
+}
   
   #sidebar h3
   {
