@@ -49,7 +49,7 @@ img.emoji {
 <link rel='stylesheet' id='prettyPhoto-css-css'  href='https://themeseye.com/theme-demo/nikah-wedding-pro/wp-content/plugins/gallery-images/css/prettyPhoto.css?ver=1.0' type='text/css' media='all' />
 <link rel='stylesheet' id='nikah-wedding-pro-font-css'  href='assets/css/fontgooglelapis.css' type='text/css' media='all' />
 <link rel='stylesheet' id='bootstrap-style-css'  href='assets/css/bootstrap.min.css' type='text/css' media='all' />
-<link rel='stylesheet' id='nikah-wedding-pro-basic-style-css'  href='assets/css/style2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='nikah-wedding-pro-basic-style-css'  href='assets/css/style3.css' type='text/css' media='all' />
 <style id='nikah-wedding-pro-basic-style-inline-css' type='text/css'>
 #slider .inner_carousel h3,#slider .inner_carousel p,.main-navigation a,#happy-couple .invitation-content,#happy-couple .invitation-content .invitation-text,#happy-couple .invitation-content .sub-title,#happy-couple .invitation-content .wedding-location,#happy-couple .couple-contents .couple-info,#wedding-timer .wedding-timer-head h3,#wedding-timer .wedding-timer-head p,#wedding-timer .numbers,#love-story .love-story-content span,#love-story .love-story-content .love-story-text,#love-story .love-story-content a,#event-schedule .event-schedule-head h3,#event-schedule .event-schedule-head p,#event-schedule .event-schedule-tab li a:hover p,#event-schedule .schedule-content p,#rsvp-form a,#our-family .our-family-content h5 a,#our-family .our-family-content span,#more-events .more-events-head h3,#more-events .more-events-head p,#more-events .more-events-content .event-button,#our-partners .our-partners-head p,#are-you-attending .attending-form input[type="submit"],#are-you-attending .attend-quote h3,#are-you-attending .attend-quote p,#gift-registration .gift-head p,.copyright p,#gift-registration .gift-text,#single-family .single-family-content p,#sidebar input[type="submit"],#sidebar h3,#sidebar ul li a,#sidebar ul li,#single-event-page .event-text p,.metabox .entry-date,.metabox .entry-author a,.metabox .entry-comments,.single-post-block .single-content p,.post_ctg span,ul.post-categories a,.share_icon b,.authordetails .author_links a,.authordetails .b-content,#comments .comment-body p,#comments .reply a,#comments input[type="submit"].submit,.post-navigation .nav-previous .meta-nav,.navigation span, .navigation a,.inner-sbox p,.single-pages-content p,.main-navigation li ul a,.contact-box .startup-contact-info p,.family_box .family_name a,.family_box .designation,.events-box .read-more,#are-you-attending .attending-form select{ 
 	}@media screen and (max-width:767px) {}@media screen and (min-width:720px) {}@media screen and (max-width:1024px) {}
@@ -66,16 +66,6 @@ img.emoji {
 <script type='text/javascript' src='assets/js/jquery.prettycustom.js'></script>
 <script type='text/javascript' src='assets/js/jquery.prettyPhoto.js'></script>
 <script type='text/javascript' src='assets/js/wow.min.js'></script>
-<script type="text/javascript">
-  jQuery(document).ready(function($){
-
-$(".hide").click(function () {
-        $("#popup").fadeOut(1000);
-        $("body").css("overflow","scroll");
-        $("body").css("overflow-x","hidden");
-    });
-});
-</script>
 
 		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 			<style type="text/css">
@@ -88,27 +78,6 @@ $(".hide").click(function () {
 }		</style>
 	</head>
 <body class="home page-template page-template-page-template page-template-home-page page-template-page-templatehome-page-php page page-id-5 wp-custom-logo">
-  <div id="popup">
-            <div class="popup-1">
-                <center>
-                    <div class="popup-2">
-                        <span class="popup-2-1">
-                            Official Wedding Website
-                        </span><br><br>
-                        <span class="popup-2-2">
-                            Firdauz & Ifah
-                        </span><br>
-                        <br>
-                            <b>Dear All,</b>
-                            <br>
-                                                <div class="popup-ads">
-                            Sehubungan dengan kondisi COVID-19, tanpa mengurangi rasa hormat, kami mohon maaf tidak dapat mengundang Bapak/Ibu/Saudara/i dalam acara pernikahan kami, merupakan suatau kebahagiaan bagi kami apabila berkenan memberikan doa restunya untuk pernikahan kami. Terimakasih. <br><br> #StoryFirdauzIfah
-                        </div>
-                    </div>
-                    <div class="hide"> Open Invitation</div> &nbsp;
-                </center>
-            </div>
-        </div>
   <header id="masthead" class="site-header inner-page-header">
       
   <div id="header">
