@@ -428,22 +428,22 @@ secara virtual melalui tautan berikut :</p>
 			<div class="col-lg-12 col-md-12">
 				<ul class="vw_gallery_front row clearfix">
       <li class="col-md-4 col-sm-6 col-6 p-0">
-			<a href="assets/images/img1.jpg" rel="prettyPhoto[gallery_name]" title="Profesi Ifah"><img width="300" height="300" src="assets/images/img1.jpg" class="attachment-gallery-image-medium size-gallery-image-medium" alt="" srcset="assets/images/img1.jpg" sizes="(max-width: 300px) 100vw, 300px" /><div class="icon_overlay"><i class="fas fa-plus"></i></div></a>
+			<a href="assets/images/img1.jpg" rel="prettyPhoto[gallery_name]" title="Profession"><img width="300" height="300" src="assets/images/img1.jpg" class="attachment-gallery-image-medium size-gallery-image-medium" alt="" srcset="assets/images/img1.jpg" sizes="(max-width: 300px) 100vw, 300px" /><div class="icon_overlay"><i class="fas fa-plus"></i></div></a>
 			</li>
       <li class="col-md-4 col-sm-6 col-6 p-0">
       <a href="assets/images/img2.jpg" rel="prettyPhoto[gallery_name]" title="Casual"><img width="300" height="300" src="assets/images/img2.jpg" class="attachment-gallery-image-medium size-gallery-image-medium" alt="" srcset="assets/images/img2.jpg" sizes="(max-width: 300px) 100vw, 300px" /><div class="icon_overlay"><i class="fas fa-plus"></i></div></a>
       </li>
       <li class="col-md-4 col-sm-6 col-6 p-0">
-      <a href="assets/images/img3.jpg" rel="prettyPhoto[gallery_name]" title="Profesi Firdauz"><img width="300" height="300" src="assets/images/img3.jpg" class="attachment-gallery-image-medium size-gallery-image-medium" alt="" srcset="assets/images/img3.jpg" sizes="(max-width: 300px) 100vw, 300px" /><div class="icon_overlay"><i class="fas fa-plus"></i></div></a>
+      <a href="assets/images/img3.jpg" rel="prettyPhoto[gallery_name]" title="Profession"><img width="300" height="300" src="assets/images/img3.jpg" class="attachment-gallery-image-medium size-gallery-image-medium" alt="" srcset="assets/images/img3.jpg" sizes="(max-width: 300px) 100vw, 300px" /><div class="icon_overlay"><i class="fas fa-plus"></i></div></a>
       </li>
       <li class="col-md-4 col-sm-6 col-6 p-0">
-      <a href="assets/images/img5.JPG" rel="prettyPhoto[gallery_name]" title=""><img width="300" height="300" src="assets/images/img5.JPG" class="attachment-gallery-image-medium size-gallery-image-medium" alt="assets/images/img5.JPG" srcset="" sizes="(max-width: 300px) 100vw, 300px" /><div class="icon_overlay"><i class="fas fa-plus"></i></div></a>
+      <a href="assets/images/img5.JPG" rel="prettyPhoto[gallery_name]" title="Feel Love"><img width="300" height="300" src="assets/images/img5.JPG" class="attachment-gallery-image-medium size-gallery-image-medium" alt="assets/images/img5.JPG" srcset="" sizes="(max-width: 300px) 100vw, 300px" /><div class="icon_overlay"><i class="fas fa-plus"></i></div></a>
       </li>
       <li class="col-md-4 col-sm-6 col-6 p-0">
       <a href="assets/images/img6.JPG" rel="prettyPhoto[gallery_name]" title="Feel Free"><img width="300" height="300" src="assets/images/img6.JPG" class="attachment-gallery-image-medium size-gallery-image-medium" alt="" srcset="assets/images/img6.JPG" sizes="(max-width: 300px) 100vw, 300px" /><div class="icon_overlay"><i class="fas fa-plus"></i></div></a>
       </li>
       <li class="col-md-4 col-sm-6 col-6 p-0">
-      <a href="assets/images/img4.jpg" rel="prettyPhoto[gallery_name]" title=""><img width="300" height="300" src="assets/images/img4.jpg" class="attachment-gallery-image-medium size-gallery-image-medium" alt="assets/images/img4.jpg" srcset="" sizes="(max-width: 300px) 100vw, 300px" /><div class="icon_overlay"><i class="fas fa-plus"></i></div></a>
+      <a href="assets/images/img4.jpg" rel="prettyPhoto[gallery_name]" title="Feel Love"><img width="300" height="300" src="assets/images/img4.jpg" class="attachment-gallery-image-medium size-gallery-image-medium" alt="assets/images/img4.jpg" srcset="" sizes="(max-width: 300px) 100vw, 300px" /><div class="icon_overlay"><i class="fas fa-plus"></i></div></a>
       </li>
     </ul>		        			</div>
 		</div>
