@@ -5099,7 +5099,8 @@ input#password, input#reg_password {
   #happy-couple .invitation-content .invitation-card
 {
   border:6px solid #ebebeb;
-  padding: 85px;
+  padding: 30px;
+  padding-bottom: 85px;
   border-radius: 30px;
 }
 
@@ -5138,7 +5139,8 @@ input#password, input#reg_password {
   #happy-couple .invitation-content .invitation-card
 {
   border:6px solid #ebebeb;
-  padding: 85px;
+  padding: 30px;
+  padding-bottom: 85px;
   border-radius: 30px;
 }
 
@@ -5181,7 +5183,8 @@ input#password, input#reg_password {
   #happy-couple .invitation-content .invitation-card
 {
   border:6px solid #ebebeb;
-  padding: 85px;
+  padding: 30px;
+  padding-bottom: 85px;
   border-radius: 30px;
 }
   .socialbox
@@ -5476,7 +5479,8 @@ input#password, input#reg_password {
   #happy-couple .invitation-content .invitation-card
 {
   border:6px solid #ebebeb;
-  padding: 85px;
+  padding: 30px;
+  padding-bottom: 85px;
   border-radius: 30px;
 }
   .toggle-nav {
@@ -5791,7 +5795,8 @@ input#password, input#reg_password {
   #happy-couple .invitation-content .invitation-card
 {
   border:6px solid #ebebeb;
-  padding: 85px;
+  padding: 30px;
+  padding-bottom: 85px;
   border-radius: 30px;
 }
   

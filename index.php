@@ -17,6 +17,14 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-SZPDZKMCLQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SZPDZKMCLQ');
+</script>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
